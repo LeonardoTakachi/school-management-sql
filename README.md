@@ -1,4 +1,5 @@
 # Gerenciamento Escolar com SQLite
+Leo
 
 Projeto de banco de dados relacional desenvolvido para praticar os fundamentos de SQL e SQLite por meio da modelagem de um sistema de gerenciamento escolar.
 
